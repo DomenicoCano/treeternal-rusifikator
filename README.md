@@ -4,9 +4,9 @@
 
 **Неофициальный перевод игры Treeternal на русский язык**
 
-[![Скачать русификатор](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-ru__patcher.exe-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DomenicoCano/Treeternal-ru--/releases/latest/download/ru_patcher.exe)
+[![Скачать русификатор](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-ru__patcher.exe-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DomenicoCano/treeternal-rusifikator/releases/latest/download/ru_patcher.exe)
 
-[Последний релиз](https://github.com/DomenicoCano/Treeternal-ru--/releases/latest) · Windows 10/11 · Steam
+[Последний релиз](https://github.com/DomenicoCano/treeternal-rusifikator/releases/latest) · Windows 10/11 · Steam
 
 ![Скриншот перевода](docs/screenshot.png)
 
@@ -57,7 +57,7 @@
 ### Известные ограничения
 
 - Перевод проверен на демо-версии. На полной версии он должен работать, если формат файлов не изменится, но это пока не проверено.
-- Интерфейс игры рассчитан на английский текст. Некоторые длинные русские строки могут выходить за рамки кнопок. Если нашли такие, создайте [Issue](https://github.com/DomenicoCano/Treeternal-ru--/issues) со скриншотом, и строку сократят.
+- Интерфейс игры рассчитан на английский текст. Некоторые длинные русские строки могут выходить за рамки кнопок. Если нашли такие, создайте [Issue](https://github.com/DomenicoCano/treeternal-rusifikator/issues) со скриншотом, и строку сократят.
 - После обновления игры без параметра запуска из раздела выше патчер нужно запускать заново.
 - Антивирус или Windows SmartScreen могут ругаться на неподписанный exe, собранный PyInstaller. Исходный код лежит здесь же, его можно проверить и собрать самому.
 
